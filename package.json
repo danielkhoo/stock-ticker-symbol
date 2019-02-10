@@ -1,9 +1,11 @@
 {
   "name": "stock-ticker-symbol",
   "version": "1.0.0",
-  "description": "",
+  "description": "Utility to lookup and validate NASDAQ Ticker Symbols",
   "license": "MIT",
+  "repository": "nric",
   "main": "index.js",
+  "typings": "index.d.ts",
   "keywords": [
     "finance",
     "ticker",
